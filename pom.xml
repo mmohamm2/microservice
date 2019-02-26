@@ -5,7 +5,7 @@
     <groupId>com.hemi.optimus</groupId>
     <artifactId>jhipster-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+ 
     <name>Jhipster Test</name>
 
     <repositories>
