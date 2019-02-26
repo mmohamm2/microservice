@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.hemi.optimus"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "jhipsterTest",
+        "packageName": "com.hemi.optimus",
+        "packageFolder": "com/hemi/optimus",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MzgwMTkzM2NmODRhOTMyMDM4YTg3ZGJiMjI2OTA4NjY2Y2IwODk3YTUxYmY1MzQ2N2JmM2FkYmU5MTg3NjkzN2RiNGJkMjJhNjVjNjg2NjU5ODNkMGU3Y2Y4MTlmYWU0ZjUxODhmMzg3YTlmNmRiMzBiNjQ1YjU4ZmE4OGUwNWU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
